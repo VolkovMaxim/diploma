@@ -1,0 +1,6 @@
+venv
+.ipynb_checkpoints
+0.0.7
+clean_texts1.txt
+yelp_academic_dataset_review.json
+read_txt.py
